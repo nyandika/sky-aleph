@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Aleph.js
+.DS_Store
+Thumbs.db
+.aleph/
+dist/
